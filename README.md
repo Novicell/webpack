@@ -1,5 +1,7 @@
 # Standard frontend setup using Webpack 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Novicell/webpack.svg)](https://greenkeeper.io/)
+
 ## Customization of Webpack properties 
 #### Use the file webpack/my.webpack.config.ts for easy configuration
 
